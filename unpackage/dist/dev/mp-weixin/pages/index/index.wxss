@@ -1,0 +1,82 @@
+
+.menus-item.data-v-69175d8e{
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: baseline;
+	-webkit-justify-content: baseline;
+	        justify-content: baseline;
+	padding: 25% 0;
+}
+/* 图标 */
+.menus-icon.data-v-69175d8e{
+	color: #FFFFFF;
+	font-size: 20rpx;
+}
+/* 菜单名称 */
+.menus-name.data-v-69175d8e{
+	margin-top: 5rpx;
+	color: #FFFFFF;
+}
+
+
+
+.content.data-v-02ea2480{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-pack: center;
+		-webkit-justify-content: center;
+		        justify-content: center;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		        align-items: center;
+}
+	/* 主菜单轮播图 */
+.menus.data-v-02ea2480{
+		width: 90%;
+		height: 750rpx;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-justify-content: space-around;
+		        justify-content: space-around;
+		margin-top: 100rpx;
+}
+.menus-item.data-v-02ea2480{
+		width: 90%;
+}
+	/* 	.content {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+	} */
+.scroll-content.data-v-02ea2480 {
+	  width: 100%;
+	  height: 88rpx;
+	  white-space: nowrap;
+	  position: fixed;
+	  bottom: 0;
+}
+.scroll-item.data-v-02ea2480 {
+	  display: inline-block;
+	  padding: 10rpx 30rpx;
+	  font-size: 36rpx;
+}
+.f-active-color.data-v-02ea2480 {
+	  padding: 10rpx 0;
+	  border-bottom: 6rpx solid #49bdfb;
+}
+.f-color.data-v-02ea2480{
+		color: #636263;
+}
+

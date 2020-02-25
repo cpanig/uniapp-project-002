@@ -1,0 +1,30 @@
+
+.menus-item.data-v-69175d8e{
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: baseline;
+	-webkit-justify-content: baseline;
+	        justify-content: baseline;
+	padding: 25% 0;
+}
+/* 图标 */
+.menus-icon.data-v-69175d8e{
+	color: #FFFFFF;
+	font-size: 20rpx;
+}
+/* 菜单名称 */
+.menus-name.data-v-69175d8e{
+	margin-top: 5rpx;
+	color: #FFFFFF;
+}
+
+
